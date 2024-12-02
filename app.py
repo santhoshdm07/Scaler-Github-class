@@ -1,4 +1,4 @@
 print("this is the master file")
 
-def sqaure(x):
+def square(x):
     return x*x
